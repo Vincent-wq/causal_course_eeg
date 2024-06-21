@@ -17,6 +17,7 @@ dependencies:
   - pygam
   - lightgbm
   - transformers
+  - statsmodels
   - pip:
     - econml
     - networkx
